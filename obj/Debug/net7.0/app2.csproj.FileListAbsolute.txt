@@ -1,0 +1,15 @@
+/Users/denis/Documents/Programming/c#/ts4_n15/bin/Debug/net7.0/app2
+/Users/denis/Documents/Programming/c#/ts4_n15/bin/Debug/net7.0/app2.deps.json
+/Users/denis/Documents/Programming/c#/ts4_n15/bin/Debug/net7.0/app2.runtimeconfig.json
+/Users/denis/Documents/Programming/c#/ts4_n15/bin/Debug/net7.0/app2.dll
+/Users/denis/Documents/Programming/c#/ts4_n15/bin/Debug/net7.0/app2.pdb
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.csproj.AssemblyReference.cache
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.AssemblyInfoInputs.cache
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.AssemblyInfo.cs
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.csproj.CoreCompileInputs.cache
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.dll
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/refint/app2.dll
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.pdb
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/app2.genruntimeconfig.cache
+/Users/denis/Documents/Programming/c#/ts4_n15/obj/Debug/net7.0/ref/app2.dll
